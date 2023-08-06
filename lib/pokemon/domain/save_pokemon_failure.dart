@@ -1,0 +1,3 @@
+enum SavePokemonFailure {
+  unknownError;
+}
