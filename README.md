@@ -14,3 +14,7 @@ The architecture of the app itself follows Clean Architecture guidelines, separa
  4. Infrastructure: here, I handle all of the calls to third party services, as well as the handling of json (from and to) objects and transforming them into something my app know how to work with.
 
 Unit tests were made by using [Mocktail](https://pub.dev/packages/mocktail) for mocking dependencies, and [Bloc Test](https://pub.dev/packages/bloc_test) for helping me get Cubits tests done quickly.
+
+
+Flutter version: 3.10.1
+Dart version: 3.0.1
